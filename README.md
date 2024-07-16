@@ -1,12 +1,12 @@
 # Progress Tracker
 
 ## DSA
-- [x] Complete Git & GitHub Course
-- [x] Introduction to Programming
-  - - [x] Types of languages
-  - - [x] Memory management
-- [x] Flow of the program
-  - - [x] Flowcharts 
+- [ ] Complete Git & GitHub Course
+- [ ] Introduction to Programming
+  - - [ ] Types of languages
+  - - [ ] Memory management
+- [ ] Flow of the program
+  - - [ ] Flowcharts 
   - - [x] Pseudocode
 - [x] Introduction to Java
   - - [x] Introduction
